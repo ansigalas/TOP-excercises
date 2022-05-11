@@ -1,2 +1,2 @@
-# TOP-excercises
-The Odin Project Excercises
+# list-excercise
+List Excercise - The Odin Project
