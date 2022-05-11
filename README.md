@@ -1,2 +1,2 @@
-# list-excercise
-List Excercise - The Odin Project
+# odin-list-excercise
+The Odin Project - List Excercise
